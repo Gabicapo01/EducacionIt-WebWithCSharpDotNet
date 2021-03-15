@@ -1,0 +1,52 @@
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\Integrador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASP\IntegradorASP\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegradorASPv3\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegradorASPv3\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegradorASPv3\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegradorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegradorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegradorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegradorASP\Entidades\obj\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\bin\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\bin\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\obj\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Entidades\obj\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\bin\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\bin\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\obj\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Entidades\obj\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\bin\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\bin\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\obj\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Entidades\obj\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\bin\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\bin\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\obj\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Entidades\obj\Debug\Entidades.pdb

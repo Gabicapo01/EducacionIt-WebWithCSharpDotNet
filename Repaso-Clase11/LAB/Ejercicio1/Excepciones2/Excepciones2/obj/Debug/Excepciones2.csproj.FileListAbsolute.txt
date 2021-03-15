@@ -1,0 +1,6 @@
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\bin\Debug\Excepciones2.exe.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\bin\Debug\Excepciones2.exe
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\bin\Debug\Excepciones2.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\obj\Debug\Excepciones2.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\obj\Debug\Excepciones2.exe
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Ejercicio1\Excepciones2\Excepciones2\obj\Debug\Excepciones2.pdb

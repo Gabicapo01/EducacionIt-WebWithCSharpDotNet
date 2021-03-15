@@ -1,0 +1,84 @@
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPFase1\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF2\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll.config
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\IntegradorASP.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\bin\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\IntegradorASP\obj\Debug\IntegradorASP.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll.config
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\bin\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csprojAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CopyComplete
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\bin\Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASPF9\IntegradorASP\obj\Debug\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\IntegradorASP.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\IntegradorASP.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\bin\Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\obj\Debug\IntegradorASP.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\obj\Debug\IntegradorASP.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\obj\Debug\IntegradorASP.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\obj\Debug\IntegradorASP.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\IntegradorASP\obj\Debug\IntegradorASP.pdb

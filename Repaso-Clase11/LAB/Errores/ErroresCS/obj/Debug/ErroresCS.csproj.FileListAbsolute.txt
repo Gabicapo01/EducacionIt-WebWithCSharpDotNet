@@ -1,0 +1,20 @@
+C:\Users\Pablo\Documents\Visual Studio 2012\Errores\ErroresCS\bin\ErroresCS.dll
+C:\Users\Pablo\Documents\Visual Studio 2012\Errores\ErroresCS\bin\ErroresCS.pdb
+C:\Users\Pablo\Documents\Visual Studio 2012\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+C:\Users\Pablo\Documents\Visual Studio 2012\Errores\ErroresCS\obj\Debug\ErroresCS.pdb
+C:\Users\Pablo\Documents\Projects\Training Samples\ASP.NET\Errores\ErroresCS\bin\ErroresCS.dll
+C:\Users\Pablo\Documents\Projects\Training Samples\ASP.NET\Errores\ErroresCS\bin\ErroresCS.pdb
+C:\Users\Pablo\Documents\Projects\Training Samples\ASP.NET\Errores\ErroresCS\obj\Debug\ErroresCS.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Projects\Training Samples\ASP.NET\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+C:\Users\Pablo\Documents\Projects\Training Samples\ASP.NET\Errores\ErroresCS\obj\Debug\ErroresCS.pdb
+C:\Users\educacionit\Downloads\Errores\Errores\ErroresCS\bin\ErroresCS.dll
+C:\Users\educacionit\Downloads\Errores\Errores\ErroresCS\bin\ErroresCS.pdb
+C:\Users\educacionit\Downloads\Errores\Errores\ErroresCS\obj\Debug\ErroresCS.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Downloads\Errores\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+C:\Users\educacionit\Downloads\Errores\Errores\ErroresCS\obj\Debug\ErroresCS.pdb
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.dll.config
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.dll
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.pdb
+C:\Users\Pablo\Downloads\Errores\ErroresCS\obj\Debug\ErroresCS.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+C:\Users\Pablo\Downloads\Errores\ErroresCS\obj\Debug\ErroresCS.pdb

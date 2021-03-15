@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="IntegradorASP.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%: Page.Title %> - Integrador ASP.NET</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+   <%-- Ejemplo: sobreescribimos el color de fondo de la clase well de Bootstrap--%>
+    <style>
+        .well {
+            background:#F0F0F0 ; 
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <%-- Barra de navegación--%>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <%-- Links lado izquierdo --%>
+                <div class="navbar-header">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <asp:HyperLink ID="HyperLinkInicio" runat="server" CssClass="navbar-brand" NavigateUrl="~/Default.aspx">Integrador ASP.NET</asp:HyperLink>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <asp:HyperLink ID="HyperLinkAdministracion" runat="server" CssClass="navbar-brand" NavigateUrl="~/Administracion.aspx">Administración</asp:HyperLink>
+                        </li>
+                    </ul>
+                </div>
+                <%-- Links lado derecho --%>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <asp:HyperLink ID="HyperLinkAyuda" runat="server" CssClass="navbar-brand" NavigateUrl="~/Ayuda.aspx">Ayuda</asp:HyperLink>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <%-- Contenido--%>
+        <div style="margin-left: 10px; margin-right: 10px">
+            <asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder">
+            </asp:ContentPlaceHolder>
+        </div>
+        <%-- Pie de página--%>
+        <hr />
+    </form>
+</body>
+</html>

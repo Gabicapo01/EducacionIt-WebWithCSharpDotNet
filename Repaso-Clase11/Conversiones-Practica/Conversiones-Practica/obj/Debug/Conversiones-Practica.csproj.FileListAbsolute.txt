@@ -1,0 +1,7 @@
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\bin\Debug\Conversiones-Practica.exe.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\bin\Debug\Conversiones-Practica.exe
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\bin\Debug\Conversiones-Practica.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\obj\Debug\Conversiones-Practica.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\obj\Debug\Conversiones-Practica.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\obj\Debug\Conversiones-Practica.exe
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Conversiones-Practica\Conversiones-Practica\obj\Debug\Conversiones-Practica.pdb

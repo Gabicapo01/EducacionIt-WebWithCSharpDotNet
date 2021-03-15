@@ -1,0 +1,12 @@
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.dll.config
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.dll
+C:\Users\Pablo\Downloads\Errores\ErroresCS\bin\ErroresCS.pdb
+C:\Users\Pablo\Downloads\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+C:\Users\Pablo\Downloads\Errores\ErroresCS\obj\Debug\ErroresCS.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\bin\ErroresCS.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\bin\ErroresCS.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\bin\ErroresCS.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\obj\Debug\Errores.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\obj\Debug\Errores.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\obj\Debug\ErroresCS.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\LAB\Errores\ErroresCS\obj\Debug\ErroresCS.pdb

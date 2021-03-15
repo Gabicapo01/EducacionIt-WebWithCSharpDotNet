@@ -1,0 +1,74 @@
+D:\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+D:\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+D:\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Datos.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Entidades.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Datos.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\bin\Debug\Entidades.pdb
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+D:\IntegreadorASP 3\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegreadorASP 8 sep\IntegreadorASP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\IntegradorASPF5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\Downloads\IntegradorASPF2_1086_3\IntegradorASPF4\Negocio\obj\Debug\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Negocio.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Datos.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Entidades.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Datos.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\bin\Debug\Entidades.pdb
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\obj\Debug\Negocio.dll
+C:\EducacionIT\Manual Curso CSharp\Curso completo\Descargas\Clase9\IntegradorASPF9\Negocio\obj\Debug\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\bin\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\obj\Debug\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\IntegradorASPF10\IntegradorASPF9\Negocio\obj\Debug\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\bin\Debug\Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\obj\Debug\Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\IntegradorASPF10\Negocio\obj\Debug\Negocio.pdb
