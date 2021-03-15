@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Blog.SitioWeb.MasterPages.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Scripts/popper.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+    <%--************************************************--%>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <asp:HyperLink runat="server" NavigateUrl="~/" CssClass="navbar-brand">Blog</asp:HyperLink>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <%--<li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li>--%>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">
+                            Administracion
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <asp:HyperLink runat="server" CssClass="dropdown-item" NavigateUrl="~/Administracion/Categorias/Default.aspx">Categorias</asp:HyperLink>  
+                            <asp:HyperLink runat="server" CssClass="dropdown-item" NavigateUrl="~/Administracion/BlogPost/AdminBlogPostDefault.aspx">Posts</asp:HyperLink> 
+                        </div>
+                    </li>
+                    <!-- VIDEO - CLASE 09 - Minuto 29 me quede - 06-01-2021 --> 
+                </ul>
+            </div>
+        </nav>
+        
+        
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-md-3">
+                    <asp:ListView runat="server" id="lstCategorias" >
+                         <LayoutTemplate> <%-- es similar a la master page --%>
+                             <div class="layout">
+                                 <asp:PlaceHolder runat="server" ID="itemPlaceHolder">
+
+                                 </asp:PlaceHolder>
+                             </div>
+
+                         </LayoutTemplate>
+
+                        <ItemTemplate>
+                            <div class="item">
+                                <%#Eval("Id") %>- <%#Eval("Nombre") %>
+                                
+                            </div>
+                        </ItemTemplate>
+                    
+                    </asp:ListView>                    
+                    
+                    <hr />
+                    <asp:HyperLink runat="server" NavigateUrl="~/Paginas/AcumuladorViewState.aspx">Acumulador ViewState</asp:HyperLink> <br />
+                    <asp:HyperLink runat="server" NavigateUrl="~/Paginas/AcumuladorSesion.aspx">Acumulador Session</asp:HyperLink>
+                    <hr />
+                    <asp:Label runat="server" ID="lblVisitas" ></asp:Label>
+                </div>
+                <div class="col-md-9">
+                    <asp:Panel runat="server" ID="pnlError" Visible="false">
+                        <div class="alert alert-danger" role="alert" style="font-size:small">
+                             Ha ocurrido un error en la pagina! <br />
+                             <asp:Label runat="server" ID="lblErrorMessage">
+
+                             </asp:Label>
+                        </div>
+                    </asp:Panel>
+                    <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+            
+        </div>
+    </form>
+</body>
+</html>
