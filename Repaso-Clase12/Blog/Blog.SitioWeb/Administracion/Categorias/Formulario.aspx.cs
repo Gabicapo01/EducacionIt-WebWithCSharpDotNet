@@ -7,6 +7,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Utilidades;
+using Utilidades.Extension;
 
 namespace Blog.SitioWeb.Administracion.Categorias
 {
@@ -18,22 +20,23 @@ namespace Blog.SitioWeb.Administracion.Categorias
         protected void Page_Load(object sender, EventArgs e)
         {
             idParametro = Request.QueryString["ID"];
-            if (!string.IsNullOrWhiteSpace(idParametro) && !IsPostBack)
+            int id = Conversiones.ToInt32(idParametro);
+            if (id>0 && !IsPostBack)
             {
-                int id = Convert.ToInt32(idParametro);
-                Categoria categoria = categoriasNegocio.ObtenerUnaCategoria(id);
-                txtNombre.Text = categoria.Nombre;
+                
+                    Categoria categoria = categoriasNegocio.ObtenerUnaCategoria(id);
+                    txtNombre.Text = categoria.Nombre;
             }
         }
 
         protected void btnGrabar_Click(object sender, EventArgs e)
         {
             //idParametro = Request.QueryString["ID"]; // LEO el ID porque necesito decidir si va a actualizar o crear uno nuevo
+            int id = idParametro.ToInt32();
             try
             {
-                if (!string.IsNullOrWhiteSpace(idParametro)) // si el IDPARAMETRO no esta VACIO, se esta actualizando
+                if (id>0) // si el IDPARAMETRO no esta VACIO, se esta actualizando
                 {
-                    int id = Convert.ToInt32(idParametro);
                     categoriasNegocio.ActualizarCategoria(id, txtNombre.Text);
                     Response.Redirect("Default.aspx");
                     

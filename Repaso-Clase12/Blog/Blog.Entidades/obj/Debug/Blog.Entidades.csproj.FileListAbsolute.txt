@@ -22,3 +22,9 @@ D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\B
 D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.csproj.CoreCompileInputs.cache
 D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.dll
 D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\bin\Debug\Blog.Entidades.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\bin\Debug\Blog.Entidades.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.csprojAssemblyReference.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.csproj.CoreCompileInputs.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Entidades\obj\Debug\Blog.Entidades.pdb
