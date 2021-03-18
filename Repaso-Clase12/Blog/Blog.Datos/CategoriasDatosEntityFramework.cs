@@ -46,6 +46,23 @@ namespace Blog.Datos
             return resultado;
         }
 
+        public Categorias ObtenerCategoria(int idCategoria)
+        {
+            var consulta = from c in entidadesContext.Categorias
+                           where c.Id == idCategoria
+                           select new { c.Id, c.Nombre };
+
+            var categoriaDB = consulta.FirstOrDefault(); // objetos Anonimos
+
+            Categorias categoriaResultado = new Categorias()
+            {
+                Id = categoriaDB.Id,
+                Nombre = categoriaDB.Nombre
+            };
+
+            return categoriaResultado;
+        }
+
         public void InsertarCategoriaPorEf(Categoria categoriaAInsertar) 
         {
             Categorias resultado = new Categorias();
