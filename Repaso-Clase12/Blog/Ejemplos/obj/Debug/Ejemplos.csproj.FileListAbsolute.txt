@@ -1,0 +1,7 @@
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\bin\Debug\Ejemplos.exe.config
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\bin\Debug\Ejemplos.exe
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\bin\Debug\Ejemplos.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\obj\Debug\Ejemplos.csprojAssemblyReference.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\obj\Debug\Ejemplos.csproj.CoreCompileInputs.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\obj\Debug\Ejemplos.exe
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Ejemplos\obj\Debug\Ejemplos.pdb

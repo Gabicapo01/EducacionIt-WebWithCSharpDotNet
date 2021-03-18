@@ -307,6 +307,10 @@
       <Project>{F83CA25F-4879-4A2F-84E3-52BE0C0E73F8}</Project>
       <Name>Blog.Negocio</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Utilidades\Utilidades.csproj">
+      <Project>{2CBE5B61-AF47-42A7-9997-3DABAE825504}</Project>
+      <Name>Utilidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>

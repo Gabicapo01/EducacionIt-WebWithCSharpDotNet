@@ -5,11 +5,11 @@
 <html>
 <head runat="server">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <script src="../Scripts/jquery-3.0.0.min.js"></script>
-    <script src="../Scripts/popper.min.js"></script>
-    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="<%=Page.ResolveUrl("~/Scripts/jquery-3.0.0.min.js")%>"></script>
+    <script src="<%=Page.ResolveUrl("~/Scripts/popper.min.js")%>"></script>
+    <script src="<%=Page.ResolveUrl("~/Scripts/bootstrap.min.js")%>"></script>
 
-    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="<%=Page.ResolveUrl("~/Content/bootstrap.min.css")%>" rel="stylesheet" />
 
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
