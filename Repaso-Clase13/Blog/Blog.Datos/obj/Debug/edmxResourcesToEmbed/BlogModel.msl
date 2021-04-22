@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EducacionITBlogModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Categorias">
+      <EntityTypeMapping TypeName="EducacionIT.BlogModel.Categorias">
+        <MappingFragment StoreEntitySet="Categorias">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comentarios">
+      <EntityTypeMapping TypeName="EducacionIT.BlogModel.Comentarios">
+        <MappingFragment StoreEntitySet="Comentarios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Comentario" ColumnName="Comentario" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Post">
+      <EntityTypeMapping TypeName="EducacionIT.BlogModel.Post">
+        <MappingFragment StoreEntitySet="Post">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Resumen" ColumnName="Resumen" />
+          <ScalarProperty Name="Cuerpo" ColumnName="Cuerpo" />
+          <ScalarProperty Name="IdCategoria" ColumnName="IdCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_Categorias" FunctionName="EducacionIT.BlogModel.Store.SP_Categorias">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EducacionIT.BlogModel.SP_Categorias_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

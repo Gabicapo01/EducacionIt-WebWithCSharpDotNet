@@ -1,0 +1,64 @@
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 08\RepasoClase08\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 09\Repaso-Clase09\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\EntityFramework.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\bin\Debug\EntityFramework.xml
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 10\Repaso-Clase10\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\EntityFramework.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Datos.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll.config
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.pdb
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\bin\Debug\EntityFramework.xml
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csprojAssemblyReference.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CoreCompileInputs.cache
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CopyComplete
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.dll
+D:\GABO\LEARNING\PROGRAMACION Web.NET con C# .NET\CLASE 11\Repaso-Clase11\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Negocio.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\EntityFramework.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Datos.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Datos.dll.config
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\Blog.Entidades.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\bin\Debug\EntityFramework.xml
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csprojAssemblyReference.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CoreCompileInputs.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.csproj.CopyComplete
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Blog.Negocio\obj\Debug\Blog.Negocio.pdb

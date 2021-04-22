@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EducacionIT.BlogModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categorias">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="120" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Post" Relationship="Self.FK_Post_Categorias" FromRole="Categorias" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Comentarios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Autor" Type="String" MaxLength="120" FixedLength="false" Unicode="true" />
+    <Property Name="Comentario" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IdPost" Type="Int32" />
+    <NavigationProperty Name="Post" Relationship="Self.FK_Comentarios_Post" FromRole="Comentarios" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Titulo" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Resumen" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Cuerpo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IdCategoria" Type="Int32" />
+    <NavigationProperty Name="Categorias" Relationship="Self.FK_Post_Categorias" FromRole="Post" ToRole="Categorias" />
+    <NavigationProperty Name="Comentarios" Relationship="Self.FK_Comentarios_Post" FromRole="Post" ToRole="Comentarios" />
+  </EntityType>
+  <Association Name="FK_Post_Categorias">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="0..1" />
+    <End Role="Post" Type="Self.Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="IdCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Comentarios_Post">
+    <End Role="Post" Type="Self.Post" Multiplicity="0..1" />
+    <End Role="Comentarios" Type="Self.Comentarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comentarios">
+        <PropertyRef Name="IdPost" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categorias" EntityType="Self.Categorias" />
+    <EntitySet Name="Comentarios" EntityType="Self.Comentarios" />
+    <EntitySet Name="Post" EntityType="Self.Post" />
+    <AssociationSet Name="FK_Post_Categorias" Association="Self.FK_Post_Categorias">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Post" EntitySet="Post" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Comentarios_Post" Association="Self.FK_Comentarios_Post">
+      <End Role="Post" EntitySet="Post" />
+      <End Role="Comentarios" EntitySet="Comentarios" />
+    </AssociationSet>
+    <FunctionImport Name="SP_Categorias" ReturnType="Collection(EducacionIT.BlogModel.SP_Categorias_Result)">
+      <Parameter Name="ParametroNumerico" Mode="In" Type="Int32" />
+      <Parameter Name="ParametroTexto" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_Categorias_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Nombre" Nullable="true" MaxLength="120" />
+  </ComplexType>
+</Schema>

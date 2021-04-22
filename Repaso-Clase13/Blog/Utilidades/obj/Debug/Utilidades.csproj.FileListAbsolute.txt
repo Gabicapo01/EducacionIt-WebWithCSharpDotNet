@@ -1,0 +1,6 @@
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\bin\Debug\Utilidades.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\bin\Debug\Utilidades.pdb
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\obj\Debug\Utilidades.dll
+D:\source\EducacionIt-WebWithCSharpDotNet\Repaso-Clase12\Blog\Utilidades\obj\Debug\Utilidades.pdb
